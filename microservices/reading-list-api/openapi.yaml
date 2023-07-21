@@ -11,8 +11,6 @@ info:
 externalDocs:
   description: Choreo
   url: https://choreo.dev
-servers:
-  - url: http://localhost:9090
 tags:
   - name: keys
     description: In-memory key-value cache API
